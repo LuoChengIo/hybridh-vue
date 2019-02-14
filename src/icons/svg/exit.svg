@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 22@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1-1-1新增商户" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1180.000000, -113.000000)">
+        <g id="我的下拉框" transform="translate(1160.000000, 60.000000)">
+            <g id="退出登录" transform="translate(20.000000, 53.000000)">
+                <g id="Group-5">
+                    <g>
+                        <rect id="Rectangle-22" x="0" y="0" width="14" height="14"></rect>
+                        <g id="Group-4" transform="translate(2.000000, 1.000000)" stroke="#C2D7E6">
+                            <path d="M9,0 L1,0 C0.44771525,1.01453063e-16 -6.76353751e-17,0.44771525 0,1 L0,11 C6.76353751e-17,11.5522847 0.44771525,12 1,12 L9,12" id="Path-2"></path>
+                            <path d="M3,6 L10,6" id="Path-6" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="7 3 10 6 7 9"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

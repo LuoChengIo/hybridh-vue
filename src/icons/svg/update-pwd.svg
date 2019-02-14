@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 22@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1-1-1新增商户" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1180.000000, -72.000000)">
+        <g id="我的下拉框" transform="translate(1160.000000, 60.000000)">
+            <g id="修改密码" transform="translate(20.000000, 12.000000)">
+                <g id="Group-5">
+                    <g>
+                        <rect id="Rectangle-22" x="0" y="0" width="14" height="14"></rect>
+                        <g id="Group-4" transform="translate(1.000000, 0.000000)">
+                            <rect id="Rectangle-11" stroke="#C2D7E6" x="0.5" y="5.5" width="11" height="8" rx="1"></rect>
+                            <path d="M9.51973836,5.44602885 L9.51973836,3.71559605 C9.51973836,1.95729521 7.95467281,0.5 6.01104328,0.5 C4.05965581,0.5 2.50434755,1.94218735 2.50434755,3.71559605 L2.50434755,5.44602885 L9.51973836,5.44602885 Z" id="Shape" stroke="#C2D7E6" fill-rule="nonzero"></path>
+                            <path d="M6.13847645,11.7743496 C6.55539952,11.7743496 6.88924567,11.5126976 6.88924569,11.1865805 L6.88924569,7.98734734 C6.88522108,7.82742393 6.80369289,7.67543112 6.66274674,7.56508592 C6.52180058,7.45474071 6.33308973,7.39516632 6.13847645,7.39957829 C5.94412586,7.39550862 5.7558126,7.4552355 5.61520205,7.56554401 C5.47459149,7.67585253 5.3932755,7.82764891 5.38924569,7.98734734 L5.38924569,11.1865805 C5.38924569,11.5126976 5.72155338,11.7743496 6.13847645,11.7743496 Z" id="Path" fill="#C2D7E6"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

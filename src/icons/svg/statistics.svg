@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1-0商户列表" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-20.000000, -356.000000)">
+        <g id="侧边菜单">
+            <g id="4" transform="translate(0.000000, 340.000000)">
+                <g id="商户管理" transform="translate(20.000000, 16.000000)">
+                    <rect id="Rectangle-2" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M14.3008,10.1926606 L14.288,16.987156 L17.9872,17 C17.9942692,17 18,16.9942495 18,16.987156 L18,10.2055046 L14.3008,10.1926606 Z M8.1568,3 L8.144,16.987156 L11.8432,17 C11.8502692,17 11.856,16.9942495 11.856,16.987156 L11.856,3.01284404 L8.1568,3 Z M2.0128,7.11009174 L2,16.987156 L5.6992,17 C5.70626924,17 5.712,16.9942495 5.712,16.987156 L5.712,7.12293578 L2.0128,7.11009174 Z" id="Shape" fill="#C2D7E6" fill-rule="nonzero" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

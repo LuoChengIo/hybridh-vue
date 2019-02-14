@@ -1,0 +1,19 @@
+$ios-transition-duration:              500ms !default;
+$ios-transition-timing-function:       cubic-bezier(.36, .66, .04, 1) !default;
+$android-transition-duration:          200ms !default;
+$android-transition-timing-function:   cubic-bezier(0.4, 0.6, 0.2, 1) !default;
+$easeOutFunction: cubic-bezier(0.23, 1, 0.32, 1);
+$easeInOutFunction: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+
+$primary: #FC794F;
+$secondary: #6287F4;
+$success: #67C23A;
+$danger: #F56C6C;
+$warning: #FC794F;
+$info: #999;
+$light: #C7C7C7;
+$dark: #222222;
+$white: #fff;
+
+$border-color:#DCDCDC;
+$body-bg:#F5F5F5;
